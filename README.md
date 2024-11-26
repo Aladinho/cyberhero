@@ -86,7 +86,7 @@ Nous comprenons que chaque parcours est unique, c'est pourquoi nous proposons un
 - Mentors expérimentés
 
 ## 🔄 Processus d'Inscription
-1. Remplir le questionnaire d'évaluation
+1. Remplir le questionnaire d'évaluation et l'envoyer à cyberhero@db-cybersecurity.com
 2. Entretien avec un mentor
 3. Définition du parcours personnalisé
 4. Début de la formation
@@ -94,9 +94,8 @@ Nous comprenons que chaque parcours est unique, c'est pourquoi nous proposons un
 
 ## 📈 Résultats et Perspectives
 - Acquisition de compétences pratiques
-- Certification reconnue
-- Portfolio professionnel
-- Réseau professionnel
+- Certification
+- Réseau professionnel & aide pour trouver un stage
 - Opportunités de carrière
 
 ## 🔗 Liens Utiles
