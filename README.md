@@ -100,15 +100,12 @@ Nous comprenons que chaque parcours est unique, c'est pourquoi nous proposons un
 - Opportunités de carrière
 
 ## 🔗 Liens Utiles
-- [Questionnaire d'Évaluation](#)
-- [Catalogue des Formations](#)
-- [Témoignages](#)
-- [FAQ](#)
-- [Blog Technique](#)
+- [Questionnaire d'Évaluation](docs/questionnaire.md#evaluation-technique)
+- [Blog Technique](https://cyberhero.db-cybersecurity.com/)
 
 ---
 
 *Rejoignez CyberHero et commencez votre carrière en cybersécurité aujourd'hui !*
 
-Pour plus d'informations, contactez-nous à : [contact@dbacademy.com]
+Pour plus d'informations, contactez-nous à : [cyberhero@db-cybersecurity.com]
 
